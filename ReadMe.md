@@ -1,3 +1,7 @@
+<img width="1440" alt="Screenshot 2024-02-25 at 7 01 07 PM" src="https://github.com/Jarvis-3000/Metro-Card/assets/57852939/222b35bc-eb50-4cc3-9d19-12d1c55437a6">
+
+
+
 
 # Pre-requisites
 * Java 1.8/1.11/1.15
